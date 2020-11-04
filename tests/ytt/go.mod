@@ -8,3 +8,5 @@ require (
 	github.com/onsi/gomega v1.10.1
 	github.com/sclevine/agouti v3.0.0+incompatible // indirect
 )
+
+replace code.cloudfoundry.org/yttk8smatchers => /Users/ericp/go/src/code.cloudfoundry.org/yttk8smatchers
